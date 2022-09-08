@@ -1,0 +1,4 @@
+Array podría definirse como una colección de tipo de datos;
+contenedor de almacenamiento, para una colección de datos.
+Hagamos de cuenta que es una cajita en donde podemos 
+almacenar cualquier tipo de elementos. 
